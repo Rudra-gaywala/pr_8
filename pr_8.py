@@ -56,17 +56,6 @@ class datanalytics :
 
                     print("Sliced Array:", sliced)
                     
-
-                    # rng = input("Enter slice (start:end or start:end:step): ")
-
-                    # parts = list(map(lambda x: int(x) if x else None, rng.split(":")))
-
-                    # sliced = self.array[slice(*parts)]
-
-                    # print("===================================================")
-                    # print("Sliced Array:", sliced)
-                    # print("===================================================")
-
                 elif ch == 3:
                     break
                     
